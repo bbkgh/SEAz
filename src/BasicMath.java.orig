@@ -5,6 +5,7 @@ class BasicMath
     {
         return a + b;
     }
+<<<<<<< HEAD
 public double division(int a, int b)
     {
         return (a+0.0) / b;
@@ -12,10 +13,14 @@ public double division(int a, int b)
 public int subtract(int a , int b){
 	return a-b;
 	}
+||||||| merged common ancestors
+
+=======
 public int mul(int a, int b){
 	
 	return a*b;
 	}
+>>>>>>> multiply
     // TODO: subtract
 	// TODO: multiply
 	// TODO: divide
